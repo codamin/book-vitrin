@@ -1,0 +1,14 @@
+.list-group-item:hover {
+    background-color: #eee;
+}
+
+.card {
+    position: absolute;
+    width: 18rem;
+    margin-left: 33%;
+}
+
+.card-img-top {
+    width: inherit;
+}
+
